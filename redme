@@ -1,0 +1,3 @@
+SQLAIchemy -Python library to interact with databases
+Flask-SQLAIchemy - extension for Flask Applications
+SQLite database- Python has built-in support for SQLite

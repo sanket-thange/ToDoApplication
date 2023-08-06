@@ -1,3 +1,22 @@
 SQLAIchemy -Python library to interact with databases
 Flask-SQLAIchemy - extension for Flask Applications
 SQLite database- Python has built-in support for SQLite
+
+» Higher compatibility with latest technologies
+
+» Easier to use for simple cases
+
+» Codebase size is relatively smaller
+
+» High scalability for simple applications,
+
+» Easy to build a quick prototype
+
+» Routing URL is easy
+
+» Easy to develop and maintain applications
+
+» Database integration is easy
+
+» Lots of resources available online especially on
+GitHub
